@@ -95,7 +95,3 @@ This work reflects individual effort and initiative in contributing positively t
 
 ---
 
-## 📄 License
-
-You may freely use and adapt this template for academic purposes.
-Attribution is appreciated but not required.
