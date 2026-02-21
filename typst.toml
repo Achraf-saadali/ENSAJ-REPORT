@@ -1,0 +1,12 @@
+[package]
+name = "ensaj-report-template"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["SAADALI ACHRAF"]
+license = "MIT"
+description = "Professional Typst report template with custom cover page and code blocks for ENSA El Jadida."
+<<<<<<< HEAD
+repository = "https://github.com/Achraf-saadali/ENSAJ-REPORT"
+=======
+repository = "https://github.com/Achraf-saadali/ENSAJ-REPORT"
+>>>>>>> 77e8bbe (custom made report 2)
