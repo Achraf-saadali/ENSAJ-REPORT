@@ -1,4 +1,4 @@
-#import "lib.typ": cover-page, achraf_code_block
+#import "lib.typ": cover-page, achraf-code-block
 
 
 // ────────────────────────────────────────────────────────────────
@@ -51,7 +51,7 @@
 // Code Blocks
 // ────────────────────────────────────────────────────────────────
 
-#achraf_code_block(
+#achraf-code-block(
   "public class CodeFragment {
 
     public static void main(String[] args) {
@@ -67,7 +67,7 @@
 )
 
 
-#achraf_code_block(
+#achraf-code-block(
   "SELECT * FROM ENSAJ WHERE NAME =\"SAADALI ACHRAF\";",
   "SQL",
 )

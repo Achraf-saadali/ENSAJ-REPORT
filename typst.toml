@@ -9,6 +9,6 @@ repository = "https://github.com/Achraf-saadali/ENSAJ-REPORT"
 categories = ["report"]
 
 [template]
-path = "."
+path = "template"
 entrypoint = "template.typ"
 thumbnail = "thumbnail.png"

@@ -1,7 +1,7 @@
 
 //good looking code blocks like the ones you see in chatgpt code generation !!!
 
-#let achraf_code_block = (code, langue) => (
+#let achraf-code-block = (code, langue) => (
   align(
     left,
     rect(
