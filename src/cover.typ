@@ -93,7 +93,7 @@
     ]
 
     #if subject-image != none and subject-image != "" {
-    box(width: 7cm, subject-image)
+    box(width: 6cm, subject-image)
     }
   ]
 
